@@ -1,0 +1,36 @@
+body {
+  background-color: #f3ecc2;
+  font-family: system-ui;
+  font-weight: 100;
+  line-height: 150%;
+  font-variant: normal;
+text-decoration: none;
+}
+
+hr {
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #f9d56e;
+  border-width: 7px;
+  width: 50%;
+}
+h1 {
+  color: #14b1ab;
+}
+h3 {
+  color: #e8505b;
+}
+
+.redh1, .redh3
+{
+  color: #aa3a3a;
+}
+.greenh3
+{
+  color:#335d2d;
+}
+#mainheading
+{
+  color:#51adcf;
+}
